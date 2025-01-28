@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main {
+    height: auto;
+    background: #14471E;
+
+}
+.main_item {
+    width: 1200px;
+    height: 250px;
+    margin: 0 auto;
+    background: #68904D;
+    padding: 30px;
+    margin-top: 30px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+.text1 {
+    width: 900px;
+    height: 200px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.img {
+    display: block;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.p {
+    font-size: 23px;
+}
+p {
+    font-size: 23px;
+}
+.img2 {
+    width: 600px;
+    height: 300px;
+    display: block;
+    float: left;
+    margin: 20px;
+}
+.siciety {
+    width: 1200px;
+    height: 520px;
+    background: #68904D;
+    margin: 0 auto;
+
+}
+.social_text {
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin: 20px;
+}
+.roles {
+    width: 1140px;
+    height: 170px;
+    margin: 20px;
+    background: #68904D;
+    clear: both;
+}
+.role {
+    width: 150px;
+    height: 150px;
+    background: #68904D;
+    border-radius: 20px;
+    float: left;
+    margin: 10px 20px;
+    
+}
+.role img {
+    width: 100px;
+    height:100px ;
+    display: block;
+    margin: 10px auto;
+
+}
+.role p {
+    text-align: center;
+
+}
+.p1 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.h12 {
+    color: white;
+}

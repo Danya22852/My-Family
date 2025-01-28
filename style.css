@@ -1,0 +1,119 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #68904D;
+}
+.box {
+width: 1400px;
+height: auto;
+
+margin: 0 auto;
+}
+.nav {
+    width: 1400px;
+    height: 150px;
+   
+    background: #14471E;
+}
+.nav_logo {
+    width: 200px;
+    height: 100px;
+   
+    float: left;
+    margin: 10px;
+    margin-right:200px ;
+    background: url("IMG/Новый\ рисунок\(1\).png");
+   
+    background-size:cover ;
+    border-radius: 10px;
+}
+.nav_item {
+    width: 200px;
+    height: 100px;
+   
+    float: left;
+    margin: 10px;
+    background: #68904D;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+}
+.header {
+    width: 1400px;
+    height: 600px;
+   
+    background: url(/IMG/Rectangle\ 7.png);
+}
+.text {
+    width: 600px;
+    height: 300px;
+  
+    margin: 80px;
+    float: left;
+    color: white;
+}
+.img_header {
+    width: 400px;
+    height: 400px;
+   
+    margin: 80px;
+    display: block;
+    float: left;
+}
+.main {
+    width: 1400px;
+    height: auto;
+ 
+    padding: 20px;
+}
+.footer {
+    width: 1400px;
+    height: 200px;
+   
+    background: #14471E;
+    margin: 0 auto;
+}
+.footer_item {
+    width: 400px;
+    height: 150px;
+    
+    float: left;
+    margin: 10px;
+    background: 
+    #68904D;
+    text-align: center;
+    font-size: 35px;
+    margin-left: 40px;
+}
+.footer_logo {
+    background: url(/IMG/лого_шкм_укр\ 1.png);
+    background-size: 100% 100%;
+}
+.text h1 {
+    font-size: 45px;
+    margin: 10px;
+}
+.text p {
+    font-size: 25px;
+    margin: 10px;
+}
+.h1 {
+    color: darkblue;
+}
+.irh {
+    display: block;
+    margin: 10px auto;
+}
+.social {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 20px;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}

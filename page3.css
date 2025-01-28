@@ -1,0 +1,117 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main_item2 {
+    width: 1200px;
+    height: auto;
+    padding: 20px;
+    margin: 0 auto;
+    background: #14471E;
+}
+.family {
+    display: block;
+    width: 1120px;
+    height: 580px;
+    
+    margin: 0 auto;
+   
+}
+.text_family {
+    width: 1120px;
+    height: 120px;
+   
+    margin: 0 auto;
+     margin-top: 10px;
+}
+.main_family1 {
+    width: 400px;
+    height: 200px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.main_family2 {
+    width: 400px;
+    height: 200px;
+    
+    margin-top: 20px;
+    float: left;
+    margin-left: 320px;
+}
+.family_values {
+    width: 1120px;
+    height: 160px;
+   
+    margin: 0px auto;
+    clear: both; 
+}
+
+.values_text {
+        width: 920px;
+        height: 80px;
+       
+        margin: 10px;
+        float: left;
+}
+.family_image {
+    width: 80px;
+    height: 80px;
+  
+    margin: 20px;
+    float: left;
+}
+ul {
+    margin-left: 20px;
+}
+h1 {
+    text-align: center;
+}
+.p1 {
+    font-size: 35px;
+}
+.main {
+    width: auto;
+    height: auto;
+}
+.main_item1 {
+    width: 1200px;
+    height: 480px;
+    background: #14471E;
+    margin: 30px auto;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+h2 {
+    color: greenyellow;
+    text-align: center;
+}
+.img3 {
+    width: 400px;
+    height: 230px;
+    float: left;
+    
+}
+.textGG {
+    width: 800px;
+    height: 230px;
+    float: left;
+    
+}
+p {
+    color: white;
+}
+ul li::marker {
+    color: white;
+}
+li {
+    color: white;
+}
+h3 {
+    color: white;
+}
+.main_item1 p {
+    font-size: 25px;
+}

@@ -1,0 +1,122 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main_item1 {
+    width: 1200px;
+    height: 250px;
+    background: #14471E;
+    margin: 15px auto;
+}
+.tree {
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    display: block;
+    float: left;
+}
+.tree_text {
+    width: 700px;
+    height: 200px;
+    margin: 25px;
+    display: block;
+    float: left;
+    font-size: 24px;
+}
+h2 {
+    text-align: center;
+    color:lightgreen;
+}
+.family_tree {
+    width: 1200px;
+    height: 950px;
+    margin: 25px auto;
+    background: url(IMG/derevo.png);
+    background-size: 100% 100%;
+    position: relative;
+}
+.foto1 {
+    width: 140px;
+    height: 120px;
+    border-radius: 100%;
+    background: silver;
+    position: absolute;
+    left: 538px;
+    top: 106px;
+}
+
+.foto2 {
+    width: 140px;
+    height: 120px;
+    border-radius: 100%;
+    background: silver;
+    position: absolute;
+    left: 293px;
+    top: 277px;
+}
+.foto3 {
+    width: 140px;
+    height: 120px;
+    border-radius: 100%;
+    background: silver;
+    position: absolute;
+    left: 788px;
+    top: 289px;
+}
+.foto4 {
+    width: 140px;
+    height: 120px;
+    border-radius: 100%;
+    background: silver;
+    position: absolute;
+    left: 170px;
+    top: 489px;
+}
+.foto5 {
+    width: 140px;
+    height: 120px;
+    border-radius: 100%;
+    background: silver;
+    position: absolute;
+    left: 362px;
+    top: 489px;
+}
+.foto6 {
+    width: 140px;
+    height: 120px;
+    border-radius: 100%;
+    background: silver;
+    position: absolute;
+    left: 682px;
+    top: 510px;
+}
+.foto7 {
+    width: 140px;
+    height: 120px;
+    border-radius: 100%;
+    background: silver;
+    position: absolute;
+    left: 892px;
+    top: 490px;
+}
+.gallery {
+    width: 1200px;
+    height: 700px;
+    margin: 20px auto;
+}
+.gallery_item {
+    width: 350px;
+    height: 300px;
+    float: left;
+    margin: 15px;
+}
+.story {
+    width: 1200px;
+    height: auto;
+    margin: 25px auto;
+    font-size: 17px;
+}
+p {
+    color: white;
+}
